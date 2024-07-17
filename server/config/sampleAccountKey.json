@@ -1,0 +1,13 @@
+{
+    "type": "sample-file",
+    "project_id": "sample-file",
+    "private_key_id": "sample-file",
+    "private_key": "sample-file",
+    "client_email": "sample-file",
+    "client_id": "sample-file",
+    "auth_uri": "sample-file",
+    "token_uri": "sample-file",
+    "auth_provider_x509_cert_url": "sample-file",
+    "client_x509_cert_url": "sample-file",
+    "universe_domain": "sample-file"
+  }  

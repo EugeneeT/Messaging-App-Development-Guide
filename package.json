@@ -1,0 +1,12 @@
+{
+  "name": "messaging-app",
+  "version": "1.0.0",
+  "description": "Build a Feature-Rich Real-Time Messaging App with MongoDB, Express, React, Node.js and Firebase: A Comprehensive Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eugen Taranowski",
+  "license": "ISC"
+}
