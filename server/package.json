@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "messaging-app-server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,7 +9,7 @@
     "start": "nodemon ."
   },
   "keywords": [],
-  "author": "",
+  "author": "Eugen Taranowski",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
