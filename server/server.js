@@ -32,7 +32,7 @@ app.use(express.json());
 app.use("/api/users", UserRoutes);
 
 // Path to your service account key JSON file
-import serviceAccount from "./config/serviceAccountKey.json" assert { type: "json" };
+import serviceAccount from "./serviceAccountKey.json" assert { type: "json" };
 
 // Initialize Firebase Admin SDK
 try {
