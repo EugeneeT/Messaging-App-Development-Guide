@@ -25,19 +25,19 @@ Experience the app in action: [Message App Demo](https://message-app-react-fireb
 
 ## 📖 Guide Sections
 
-1. **Introduction**
+1. [**Introduction**](/startGuide.md)
 
    - Technologies covered
    - Key features
 
-2. **Backend Setup**
+2. [**Backend Setup**](/backend.md)
 
    - Server setup
    - MongoDB connection
    - User model and authentication
    - Firebase Admin SDK integration
 
-3. **Frontend Development**
+3. [**Frontend Development**](frontend.md)
 
    - React setup
    - Registration and sign-in components
@@ -45,8 +45,11 @@ Experience the app in action: [Message App Demo](https://message-app-react-fireb
    - Context and encryption implementation
    - Real-time messaging components
 
-4. **Styling**
+4. [**Styling**](styling.md)
+
    - CSS implementation for improved UI
+
+5. **Conclusion**
 
 ## 🚦 Getting Started
 
