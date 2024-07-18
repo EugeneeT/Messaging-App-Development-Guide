@@ -46,7 +46,7 @@ const LoginForm = () => {
 
       // Send a POST request to the server to log in the user and get a token
       const response = await axios.post(
-        "http://localhost:5001/api/users/login",
+        "https://messaging-app-1-elub.onrender.com/api/users/login",
         {
           email: user.email, // Include email in the request body
           password, // Include password for verification on server side
@@ -82,7 +82,7 @@ const LoginForm = () => {
 
       // Send a POST request to the server to log in the user and get a token
       const response = await axios.post(
-        "http://localhost:5001/api/users/firelogin",
+        "https://messaging-app-1-elub.onrender.com/api/users/firelogin",
         {
           email: user.email, // Include email in the request body
           uid: user.uid, // Include the user's unique ID

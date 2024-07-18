@@ -38,7 +38,10 @@ const SignupForm = ({ setSelectedTab }) => {
 
     try {
       const newUser = { email, password }; // Create a new user object with email and password
-      const response = await axios.post("/api/users/register", newUser); // Send POST request to register the new user
+      const response = await axios.post(
+        "https://messaging-app-1-elub.onrender.com/api/users/register",
+        newUser
+      ); // Send POST request to register the new user
 
       if (
         response.data && // Check if response data exists
