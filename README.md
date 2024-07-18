@@ -49,7 +49,7 @@ Experience the app in action: [Message App Demo](https://message-app-react-fireb
 
    - CSS implementation for improved UI
 
-5. **Conclusion**
+5. [**Conclusion**](/conclusion.md)
 
 ## 🚦 Getting Started
 
